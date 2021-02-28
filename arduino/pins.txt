@@ -1,0 +1,19 @@
+RF24
+	v+	red
+	gnd	black
+	ce	yellow
+	csn	orange
+	mos	blue
+	sck	green
+	misc	purple
+	irq	NA
+
+Arduino
+	3.3v	red
+	gnd	black
+	13	green 
+	12	purple
+	11	blue
+	10	orange
+	 9	yellow
+	
